@@ -1,11 +1,5 @@
 # About me
 
-
-**nsd426/nsd426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 I’m currently working on learning to code!
-- 🌱 I’m currently learning everything :melting_face:
-- 😄 Pronouns: she/her
+Hi I'm Nora and I'm new to the world of software development. After years in retail managmenent and sales, then motherhood, I've embarked on a new journey of learning to code. I am currently enrolled in a Full Stack Development with MERN course through MIT xPro. I find the learning both challenging and interesting and am excited to apply what I learn here. This page is a work in progress!
 
 
